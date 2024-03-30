@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
-  create-t3-app
+  create-t3-application
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  Get started with the <a rel="noopener noreferrer" target="_blank" href="https://init.tips">T3 Stack</a> by running <code>npm create t3-app@latest</code>
+  Get started with the <a rel="noopener noreferrer" target="_blank" href="https://init.tips">T3 Stack</a> by running <code>npx create t3-app@latest</code>
 </p>
 
 <div align="center">
@@ -108,7 +108,7 @@ bun create t3-app@latest
 
 For more advanced usage, check out the [CLI docs](https://create.t3.gg/en/installation).
 
-<h2 id="community">Community</h2>
+<!-- <h2 id="community">Community</h2>
 
 For help, discussion about best practices, or any other conversation that would benefit create-t3-app:
 
@@ -132,10 +132,14 @@ We 💖 contributors! Feel free to contribute to this project but **please read 
   <a rel="noopener noreferrer" target="_blank" href="https://vercel.com/?utm_source=t3-oss&utm_campaign=oss">
     <img height="34px" src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg" alt="Powered by vercel">
   </a>
-</p>
+</p> -->
 
 [downloads-image]: https://img.shields.io/npm/dm/create-t3-app?color=364fc7&logoColor=364fc7
 [npm-url]: https://www.npmjs.com/package/create-t3-app
 [npm-image]: https://img.shields.io/npm/v/create-t3-app?color=0b7285&logoColor=0b7285
 [contribute-url]: https://github.com/t3-oss/create-t3-app/blob/main/CONTRIBUTING.md
 [contribute-image]: https://img.shields.io/badge/PRs-welcome-blue.svg
+
+## License
+
+Create T3 Application is licensed under [GNU General Public License v3.0](LICENSE).
