@@ -7,7 +7,7 @@
     "Julius Marminge <julius0216@outlook.com> (https://jumr.dev)"
   ],
   "type": "module",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/t3-oss/create-t3-app.git"
